@@ -1,0 +1,15 @@
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.csproj.AssemblyReference.cache
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.AssemblyInfoInputs.cache
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.AssemblyInfo.cs
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.csproj.CoreCompileInputs.cache
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\bin\Debug\net7.0\Algorithmie Avancée Partiel.exe
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\bin\Debug\net7.0\Algorithmie Avancée Partiel.deps.json
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\bin\Debug\net7.0\Algorithmie Avancée Partiel.runtimeconfig.json
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\bin\Debug\net7.0\Algorithmie Avancée Partiel.dll
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\bin\Debug\net7.0\Algorithmie Avancée Partiel.pdb
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.dll
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\refint\Algorithmie Avancée Partiel.dll
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.pdb
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\Algorithmie Avancée Partiel.genruntimeconfig.cache
+C:\Users\dalix\OneDrive\Projet\C#\Algorithmie Avancée Partiel\Algorithmie Avancée Partiel\obj\Debug\net7.0\ref\Algorithmie Avancée Partiel.dll
