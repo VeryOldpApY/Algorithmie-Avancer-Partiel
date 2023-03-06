@@ -97,6 +97,7 @@ internal abstract class Program
 		{
 			Console.Write(lettre);
 		}
+		Console.WriteLine("");
 	}
 	
 	private static void Exercice2(string chaine)
@@ -162,6 +163,7 @@ internal abstract class Program
 				Console.Write(lettre);
 			}
 		}
+		Console.WriteLine("");
 	}
 
 	private static void Exercice6(string chaine, int nombre)
@@ -174,6 +176,7 @@ internal abstract class Program
 				Console.Write(lettre);
 			}
 		}
+		Console.WriteLine("");
 	}
 
 	private static void Exercice7(int nombre)
